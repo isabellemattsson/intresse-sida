@@ -5,13 +5,17 @@ height: 100vh;
 }
 
 .box1, .box2, .box3, .box4{
+  
+    background-color:#FBF9EA;
+
+font-style: italic;
     height: 10vh;
     width: 15vw;
     background-color:#FBF9EA;
     text-align: center;
     display: flex;
-    align-self: center;
-font-style: italic;
+    place-items: center;        
+    color: red;
     justify-content: center;
     color: black;
      
