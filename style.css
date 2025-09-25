@@ -1,0 +1,81 @@
+body{
+background-color: #F0DCBF;
+height: 100vh;
+
+}
+
+.box1, .box2, .box3, .box4{
+    height: 10vh;
+    width: 15vw;
+    background-color:#FBF9EA;
+    text-align: center;
+    display: flex;
+    align-self: center;
+font-style: italic;
+    justify-content: center;
+    color: black;
+     
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.Hej{
+text-decoration: none;
+
+
+
+}
+
+.flexer{
+display: flex;
+height: 100vh;
+justify-content: center;
+align-items: center;
+}
+
+
+
+.Hejj{
+height: 70vh;
+width: 80vw;
+display: flex;
+background-color: #FBF9EA;
+
+justify-self: center;
+align-self: center;
+align-items: center;
+justify-content: space-around;
+text-align: center;
+}
+
+
+
+.hejjj{
+height:50vh;
+width: 20vw;
+
+
+
+
+}
+
+
+.text{
+text-align: center;
+width: 20vw;
+height: 50vh;
+
+
+
+}
